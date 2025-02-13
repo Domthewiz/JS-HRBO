@@ -140,9 +140,9 @@ console.log("!" + genStr(Randomizer.nextInt(7,45)) + "!s!" + genStr(Randomizer.n
 console.log("!" + set_v + "!" + bse(3,9) + " \"" + space_v + "= \"" + bse(5,11));
 // Set =
 console.log(bse(3,9) + "!" + set_v + "!!" + space_v + "!\"" + equals_v + "==\"" + bse(5,11));
-console.log(lines("start https://www.youtube.com/watch?v=dQw4w9WgXcQ"));
-console.log(lines("start https://www.youtube.com/watch?v=e7MC6ozaPxY"));
-console.log(lines("start https://www.youtube.com/watch?v=iTFp4DtN2LA"));
-console.log(lines("start https://www.youtube.com/watch?v=TWb4KlM2vts"));
-console.log(lines("start https://www.youtube.com/watch?v=P5zRHdGJI9I"));
+console.log(lines("start https://github.com/Domthewiz/JS-HRBO"));
+console.log(lines("color c"));
+console.log(lines("pause"));
+console.log(lines("dir/s"));
+console.log(lines("pause"));
 console.log(lines("exit /b"));
